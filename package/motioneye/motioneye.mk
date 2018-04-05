@@ -4,7 +4,7 @@
 #
 #############################################################
 
-MOTIONEYE_VERSION = 9c5e38e2294b43cb3bea752198f69dfe4bd620d7
+MOTIONEYE_VERSION = cdeec3fbd4651be570451aabf9e193229c6bcd84
 MOTIONEYE_SITE = $(call github,cquick97,motioneye,$(MOTIONEYE_VERSION))
 MOTIONEYE_SOURCE = $(MOTIONEYE_VERSION).tar.gz
 MOTIONEYE_LICENSE = GPLv3
